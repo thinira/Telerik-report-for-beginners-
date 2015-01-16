@@ -1,4 +1,4 @@
-# Telerik-report-for-beginners-
+# Telerik report for beginners
 
 In this artcle we discuss how to create and programmatically bind telerik report.
 
